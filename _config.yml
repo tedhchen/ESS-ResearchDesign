@@ -18,7 +18,7 @@ description: Course Website
 author: Ted Hsuan Yun Chen
 baseurl: '/ESS-ResearchDesign' # the subpath of your site, e.g. /blog
 url: 'https://tedhchen.com' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
