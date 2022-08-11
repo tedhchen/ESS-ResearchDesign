@@ -14,7 +14,7 @@ Course website for EVPP 632 at George Mason University.
 
 ## About
 
-**[This materials on this website still being updated.]**
+**[This materials on this website are still being updated.]**
 
 This is a graduate-level course on research design for environmental social science.
 
@@ -28,5 +28,5 @@ This is a graduate-level course on research design for environmental social scie
 
 **Office Hours:** TBD
 
-**Instructors:**
+**Instructor:**
 {{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}
