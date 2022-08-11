@@ -21,9 +21,10 @@ description: >-
 
 ### Target Learning Outcomes
 At the end of this course, students will:
-- 
-- 
-- 
+- be familiar with current research standards in environmental social science
+- be familiar with fundamental research design considerations in the social sciences
+- have produced a research design that can be developed into a paper
+- have practiced critically assessing research designs proposed by their peers
 
 ## Course Expectations
 
