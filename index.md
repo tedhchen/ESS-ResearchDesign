@@ -9,7 +9,7 @@ seo:
 
 # Research Design for Environmental Social Science
 {: .mb-2 }
-Course website for EVPP 632 at George Mason University.
+Course website for EVPP 632 at George Mason University (Fall 2022).
 {: .fs-6 .fw-300 }
 
 ## About
