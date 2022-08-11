@@ -34,10 +34,9 @@ At the end of this course, students will:
 - 
 - 
 
-### We expect from students
-- Commitment to research and hands-on learning. This is a research-based course, where lectures are designed as supporting material. We conceive of research broadly, including academic and policy-oriented research.
-- Respect for everyone involved with the course (i.e. students, instructors, guest lecturers), and follow the course [Code of Conduct]({{ site.baseurl }}{% link conduct.md %}). It is especially important to understand that the class will comprise individuals from diverse and multidisciplinary backgrounds. Communication and patience are paramount.
-- Full attendance, as much as possible.
+### I expect from students
+- Commitment to research and hands-on learning. This is a discussion and research-based course, where lectures are designed as supporting material.
+- Respect for everyone involved with the course (i.e. students, instructor, guest lecturers), and follow the course [Code of Conduct]({{ site.baseurl }}{% link conduct.md %}). It is especially important to understand that the class will comprise individuals from diverse and multidisciplinary backgrounds. Communication and patience are paramount.
 - Basics: do the readings; come to class; contribute to team work.
 
 ## Assessment
