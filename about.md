@@ -32,9 +32,9 @@ At the end of this course, students will:
 ## Course Expectations
 
 ### Classroom Organization
-This course is held online synchronously. Generally speaking, the instructor or that week's designated student discussion leaders will begin each session with a short overview of the week's topic and set the stage for discussion with some questions. The remainder of each session will be for open discussion, which can be about anything relevant to the week's topic, including how the design questions raised during the week are relevant to student research design projects. In some specifically designated weeks, we will spend a larger portion of our time on the research design projects. 
+This course is held online synchronously. Generally speaking, the instructor or that week's designated student discussion leaders will begin each session with a short overview of the week's topic and set the stage for discussion with some questions. The remainder of each session will be for open discussion, which can be about anything relevant to the week's topic, including how the design questions raised during the week are relevant to student research design projects. In some specifically designated weeks, we will spend a larger portion of our time on the projects. 
 
-Outside of our synchronous meeting time, we will use a Slack workspace to organize additional engagement with the material and to work on the research design projects. Each project will have its own channel, which make it easier for the instructor to keep track of progress and help out where appropriate.
+Outside of our synchronous meeting time, we will use a Slack workspace to organize additional engagement with the material and to work on the research design projects. Each project will have its own channel, which make it easier for the instructor to help out where appropriate.
 
 ### Students can expect from the instructor
 - I am trained in political science, and I have additional specializations in environmental social science and network science. How I approach research is naturally influenced by my background, but I will strive to present a wide variety of materials that are in line with current standards in environmental social science research.
