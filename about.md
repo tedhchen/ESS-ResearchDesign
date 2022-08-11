@@ -80,7 +80,7 @@ More information on these tasks can be found on the [projects page]({{ site.base
     <td class="tg-c3ow">25%</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Research design presentation</td>
+    <td class="tg-0pky">Research design presentation and peer feedback</td>
     <td class="tg-c3ow">Nov 28</td>
     <td class="tg-c3ow">25%</td>
   </tr>
