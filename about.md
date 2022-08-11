@@ -18,7 +18,9 @@ description: >-
 ---
 
 ## Description
-This course is focused on the logic of making inferences about the relationship between 
+This course will introduce students to research design considerations and how they fit into the scientific method, focusing on applications to environmental social scientific questions. Specifically, we will explore the logic of making inferences about relationships between different socioecological factors and how these inferences lead to the accumulation of scientific knowledge. Students will consider the role of various quantitative and qualitative methods in this process, but the course will not focus on how to conduct specific methods (e.g. statistical modeling, network analysis, ethnography) per se.
+
+The course is organized around hands-on learning, with the goal that by the end of the course, students will have produced by themselves or with their peers a publication-level and implementable research design on an environmental social science question.
 
 ### Target Learning Outcomes
 At the end of this course, students will:
