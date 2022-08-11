@@ -14,12 +14,14 @@ description: Outline of course project resources.
 1. TOC
 {:toc}
 
-## Description
+**[Details coming soon.]**
+
+## Research Design Project
 
 ### Logistics
 
 ### Format
 
-Examples [format requirements]:
+Examples:
 
-## Potential Topics
+## Short Written Assignments
