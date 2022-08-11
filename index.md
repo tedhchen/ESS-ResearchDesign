@@ -28,7 +28,7 @@ This is a graduate-level course on research design for environmental social scie
 
 **Meeting Locations:** Online
 
-**Office Hours:** TBD
+**Office Hours:** TBD and by appointment
 
 **Instructor:**
 {{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}
