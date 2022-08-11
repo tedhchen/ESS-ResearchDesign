@@ -30,10 +30,10 @@ At the end of this course, students will:
 
 ### Classroom Organization
 
-### Students can expect from the course
-- 
-- 
-- 
+### Students can expect from the instructor
+- I am trained in political science, and I have additional specializations in environmental social science and network science. How I approach research is naturally influenced by my background, but I will strive to present a wide variety of materials that are in line with current standards in environmental social science research.
+- I will respect students’ backgrounds and strive to make the course an inclusive learning environment by following the course [Code of Conduct]({{ site.baseurl }}{% link conduct.md %}).
+- I am willing to continue to help students with their research after the course if it makes sense. This can be in a variety of capacities ranging from providing feedback to formal collaboration.
 
 ### I expect from students
 - Commitment to research and hands-on learning. This is a discussion and research-based course, where lectures are designed as supporting material.
