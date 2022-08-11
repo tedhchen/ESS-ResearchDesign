@@ -46,7 +46,7 @@ Outside of our synchronous meeting time, we will use a Slack workspace to organi
 
 ## Assessment
 
-More information on these topics can be found on the [projects page]({{ site.baseurl }}{% link projects.md %}).
+More information on these tasks can be found on the [projects page]({{ site.baseurl }}{% link projects.md %}).
 
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -68,30 +68,24 @@ More information on these topics can be found on the [projects page]({{ site.bas
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Interim reports</td>
-    <td class="tg-c3ow">8.4</td>
-    <td class="tg-c3ow">15%</td>
+    <td class="tg-0pky">Short writing assignments</td>
+    <td class="tg-c3ow">-</td>
+    <td class="tg-c3ow">25%</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Oral presentation</td>
-    <td class="tg-c3ow">21.4</td>
-    <td class="tg-c3ow">20%</td>
+    <td class="tg-0pky">Interim checkpoints for research design project</td>
+    <td class="tg-c3ow">-</td>
+    <td class="tg-c3ow">25%</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Final written project</td>
-    <td class="tg-c3ow">6.5</td>
-    <td class="tg-c3ow">45%</td>
+    <td class="tg-0pky">Research design presentation</td>
+    <td class="tg-c3ow">Nov 28</td>
+    <td class="tg-c3ow">25%</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Peer evaluation on effort*</td>
-    <td class="tg-c3ow">6.5</td>
-    <td class="tg-c3ow">20%</td>
-  </tr>
-  <tr>
-    <td class="tg-dvpl" colspan="3">*Subject to instructor approval.</td>
+    <td class="tg-0pky">Written research design</td>
+    <td class="tg-c3ow">Dec 14</td>
+    <td class="tg-c3ow">25%</td>
   </tr>
 </tbody>
 </table>
-
-
-### Project topics
