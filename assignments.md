@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Assignments
 nav_order: 3
 description: Outline of course project resources.
 ---
 
-# Projects
+# Assignments
 {:.no_toc}
 
 ## Table of contents
@@ -16,6 +16,11 @@ description: Outline of course project resources.
 
 **[Details coming soon.]**
 
+## Short Written Assignments
+
+## Weekly Discussion Leader
+For specifically designated weeks, we will have
+
 ## Research Design Project
 
 ### Logistics
@@ -24,4 +29,3 @@ description: Outline of course project resources.
 
 Examples:
 
-## Short Written Assignments
