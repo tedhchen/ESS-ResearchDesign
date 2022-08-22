@@ -15,4 +15,6 @@ Required Readings
   Hein C.J. et al. 2018. ["Overcoming early career barriers to interdisciplinary climate change research."](https://doi.org/10.1002/wcc.530){:target="_blank"} _WIREs Climate Change_ e530.
 
 Additional Materials
-: Schmidt, M., Soentgen, J., Zapf, H. 2020. ["Environmental humanities: an emerging field of transdisciplinary research."](https://doi.org/10.14512/gaia.29.4.6){:target="_blank"} _GAIA_ 29(4): 225-229.
+: Akerlof, K.L. et al. 2022. ["The Growth and Disciplinary Convergence of Environmental Communication: A Bibliometric Analysis of the Field (1970-2019)."](https://doi.org/10.3389/fenvs.2021.814599){:target="_blank"} _Frontiers in Environmental Science_ 9: 814599.
+  
+  Schmidt, M., Soentgen, J., Zapf, H. 2020. ["Environmental humanities: an emerging field of transdisciplinary research."](https://doi.org/10.14512/gaia.29.4.6){:target="_blank"} _GAIA_ 29(4): 225-229.
