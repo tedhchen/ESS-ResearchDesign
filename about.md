@@ -48,7 +48,7 @@ Outside of our synchronous meeting time, we will use a Slack workspace to organi
 
 ## Assessment
 
-More information on these tasks can be found on the [assignments page]({{ site.baseurl }}{% link assignments.md %}).
+Here is a summary of how assignments weigh in the course score. More information on these tasks can be found on the [assignments page]({{ site.baseurl }}{% link assignments.md %}).
 
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -70,7 +70,7 @@ More information on these tasks can be found on the [assignments page]({{ site.b
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Short writing assignments</td>
+    <td class="tg-0pky">Discussion-lead and general participation</td>
     <td class="tg-c3ow">-</td>
     <td class="tg-c3ow">25%</td>
   </tr>
@@ -88,6 +88,71 @@ More information on these tasks can be found on the [assignments page]({{ site.b
     <td class="tg-0pky">Written research design</td>
     <td class="tg-c3ow">Dec 14</td>
     <td class="tg-c3ow">25%</td>
+  </tr>
+</tbody>
+</table>
+
+Here is how course scores correspond to letter grades.
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3z1b{border-color:#000000;text-align:right;vertical-align:top}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-wp8o" colspan="2">Grade</th>
+    <th class="tg-wp8o" colspan="2">Score</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq">A</td>
+    <td class="tg-3z1b">[90,</td>
+    <td class="tg-0lax">100]</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq">A-</td>
+    <td class="tg-3z1b">[85,</td>
+    <td class="tg-0lax">90)</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq">B+</td>
+    <td class="tg-3z1b">[80,</td>
+    <td class="tg-0lax">85)</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq">B</td>
+    <td class="tg-3z1b">[75,</td>
+    <td class="tg-0lax">80)</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq">B-</td>
+    <td class="tg-3z1b">[70,</td>
+    <td class="tg-0lax">75)</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq">C</td>
+    <td class="tg-3z1b">[60,</td>
+    <td class="tg-0lax">70)</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq">F</td>
+    <td class="tg-3z1b">[0,</td>
+    <td class="tg-0lax">60)</td>
   </tr>
 </tbody>
 </table>
