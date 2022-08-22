@@ -5,6 +5,7 @@ type: outline
 
 Overview
 : - Establish baseline knowledge of the causal inference framework
+  - Discuss the concept of comparability in making inferences
   - Practice identifying and critiquing assumptions in applied causal inference research
 
 Required Readings
