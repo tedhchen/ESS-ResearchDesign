@@ -6,6 +6,7 @@ type: outline
 Overview
 : - Discuss the importance of measurement to making valid inferences
   - Explore different types of measurement-focused studies
+  - Discuss interim research design project
 
 Required Readings
 : Trochim. ["Measurement."](https://conjointly.com/kb/measurement-in-research/){:target="_blank"} (Construct Validity, Reliability, Levels of Measurement.)
@@ -18,3 +19,5 @@ Required Readings
 
 Additional Materials
 : Golden Kroner, R.E. et al. 2019. ["The uncertain future of protected lands and waters."](https://doi.org/10.1126/science.aau5525){:target="_blank"} _Science_ 364(6443): 881-886.
+
+**First checkpoint due Sep 16**{: .label .label-blue }

@@ -7,7 +7,7 @@ Overview
 : - Introduction to various types of non-probability sampling approaches
   - Compare probability and non-probability sampling schemes with respect to scientific inference
   - Continue discussing the use of survey research in environmental social science research
-
+  - Discuss interim research design project
 
 Required Readings
 : Heckathorn, D.D., Cameron, C.J. 2017. ["Network Sampling: From Snowball and Multiplicity to Respondent-Driven Sampling."](https://doi.org/10.1146/annurev-soc-060116-053556){:target="_blank"} _Annual Review of Sociology_ 43:101-119.
@@ -20,3 +20,5 @@ Required Readings
 
 Additional Materials
 : Goel, S., Salganik, M.J. 2010. ["Assessing respondent-driven sampling"](https://doi.org/10.1073/pnas.1000261107){:target="_blank"} _Proceedings of the National Academy of Sciences_ 107(15): 6743-6747.
+
+**Second checkpoint due Sep 30**{: .label .label-blue }
