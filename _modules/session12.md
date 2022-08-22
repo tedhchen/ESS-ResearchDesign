@@ -12,6 +12,8 @@ Required Readings
 : Asiedu, E. et al. 2021. ["A call for structured ethics appendices in social science papers."](https://doi.org/10.1073/pnas.2024570118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2024570118.
 
   Human Subjects Ethics Training (CITI Program). See instructions at the GMU Office of Research Integrity and Assurance [website](https://oria.gmu.edu/topics/human-subjects/training/){:target="_blank"}.
+  
+  *Example discussion readings TBD.
 
 Additional Materials
 : 
