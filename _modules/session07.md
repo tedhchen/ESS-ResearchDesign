@@ -17,5 +17,7 @@ https://doi.org/10.1073/pnas.1218453110){:target="_blank"} _Proceedings of the N
 
 Additional Materials
 : Byerly, H. et al. 2018. ["Nudging pro-environmental behavior: evidence and opportunities."](https://doi.org/10.1002/fee.1777){:target="_blank"} _Frontiers in Ecology and the Environment_ 16(3): 159-168.
-: Bernedo, M., Ferraro, P.J., Price, M. 2014. ["The Persistent Impacts of Norm-Based Messaging and Their Implications for Water Conservation."](https://doi.org/10.1007/s10603-014-9266-0){:target="_blank"} _Journal of Consumer Policy_ 37: 437-452.
-: King, G. et al. 2011. ["Avoiding Randomization Failure in Program Evaluation, with Application to the Medicare Health Support Program."](https://doi.org/10.1089/pop.2010.0074){:target="_blank"} _Population Health Management_ 14(S1): S11-S22.
+
+  Bernedo, M., Ferraro, P.J., Price, M. 2014. ["The Persistent Impacts of Norm-Based Messaging and Their Implications for Water Conservation."](https://doi.org/10.1007/s10603-014-9266-0){:target="_blank"} _Journal of Consumer Policy_ 37: 437-452.
+  
+  King, G. et al. 2011. ["Avoiding Randomization Failure in Program Evaluation, with Application to the Medicare Health Support Program."](https://doi.org/10.1089/pop.2010.0074){:target="_blank"} _Population Health Management_ 14(S1): S11-S22.

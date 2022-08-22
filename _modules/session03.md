@@ -5,7 +5,6 @@ type: outline
 
 Overview
 : - Discuss the importance of measurement to making valid inferences
-  - 
   - Explore different types of measurement-focused studies
 
 Required Readings
