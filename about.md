@@ -71,12 +71,12 @@ Here is a summary of how assignments weigh in the course score. More information
 <tbody>
   <tr>
     <td class="tg-0pky">Discussion-lead and general participation</td>
-    <td class="tg-c3ow">-</td>
+    <td class="tg-c3ow">By sign up</td>
     <td class="tg-c3ow">25%</td>
   </tr>
   <tr>
     <td class="tg-0pky">Interim checkpoints for research design project</td>
-    <td class="tg-c3ow">-</td>
+    <td class="tg-c3ow">Sep 16, Sep 30, Oct 28, Nov 18</td>
     <td class="tg-c3ow">25%</td>
   </tr>
   <tr>
