@@ -27,7 +27,7 @@ In each of seven specifically designated weeks (marked in the outline), we will 
 The major assignment in this course is to produce a publication-level and implementable research design.
 
 ### Logistics
-The research design project should be completed in teams ranging from 1-3 students. At any point during the course, teams can merge until the max of 3 is met.
+The research design project should be completed in teams ranging from 1-3 students. At any point up until the third checkpoint is submitted, teams can merge until the max of 3 is met.
 
 ### Timeline
 #### First checkpoint 
