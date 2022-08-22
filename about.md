@@ -48,7 +48,7 @@ Outside of our synchronous meeting time, we will use a Slack workspace to organi
 
 ## Assessment
 
-More information on these tasks can be found on the [projects page]({{ site.baseurl }}{% link projects.md %}).
+More information on these tasks can be found on the [assignments page]({{ site.baseurl }}{% link assignments.md %}).
 
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -91,3 +91,5 @@ More information on these tasks can be found on the [projects page]({{ site.base
   </tr>
 </tbody>
 </table>
+
+## Acknowledgements
