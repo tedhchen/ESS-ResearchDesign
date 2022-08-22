@@ -9,7 +9,8 @@ Overview
 
 Required Readings
 : Leifeld, P., Schneider, V. 2012. ["Information Exchange in Policy Networks."](https://doi.org/10.1111/j.1540-5907.2011.00580.x){:target="_blank"} _American Journal of Political Science_ 56(3): 731-744.
-: Student-selected readings TBD.
+
+  *Student-selected readings TBD.
 
 Additional Materials
 : 
