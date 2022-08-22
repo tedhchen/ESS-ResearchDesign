@@ -4,7 +4,10 @@ type: outline
 ---
 
 Overview
-: 
+: - Introduction to the concept of sampling and its role in scientific inference
+  - Identify potential points of deviation from representative sampling
+  - Introduction to "large-n" survey research
+  - Discuss the use of survey research in environmental social science research
 
 Required Readings
 : Trochim. ["Sampling."](https://conjointly.com/kb/sampling-in-research/){:target="_blank"} (All subsections.)
