@@ -1,10 +1,11 @@
 ---
-title: Week 7. Controlled Treatments (Oct 11)
+title: Week 7. Controlled Experiments (Oct 11)
 type: outline
 ---
 
 Overview
-: 
+: - Explore different types of experimental studies with full control of treatment assignment and administration
+  - Discuss the uses of various types of experimental designs in environmental social science
 
 Required Readings
 : Gromet, D.M., Kunreuther, H., Larrick, R.P. 2013. ["Political ideology affects energy-efficiency attitudes and choices."](
@@ -15,4 +16,6 @@ https://doi.org/10.1073/pnas.1218453110){:target="_blank"} _Proceedings of the N
   *Student-selected readings TBD.
 
 Additional Materials
+: Byerly, H. et al. 2018. ["Nudging pro-environmental behavior: evidence and opportunities."](https://doi.org/10.1002/fee.1777){:target="_blank"} _Frontiers in Ecology and the Environment_ 16(3): 159-168.
+: Bernedo, M., Ferraro, P.J., Price, M. 2014. ["The Persistent Impacts of Norm-Based Messaging and Their Implications for Water Conservation."](https://doi.org/10.1007/s10603-014-9266-0){:target="_blank"} _Journal of Consumer Policy_ 37: 437-452.
 : King, G. et al. 2011. ["Avoiding Randomization Failure in Program Evaluation, with Application to the Medicare Health Support Program."](https://doi.org/10.1089/pop.2010.0074){:target="_blank"} _Population Health Management_ 14(S1): S11-S22.
