@@ -16,4 +16,4 @@ Required Readings
   *Student-selected readings TBD.
 
 Additional Materials
-: Kikuta, K. 2019. ["Postdisaster Reconstruction as a Cause of Intrastate Violence: An Instrumental Variable Analysis with Application to the 2004 Tsunami in Sri Lanka."](https://doi.org/10.1177/0022002717753919){:target="_blank"} _Postdisaster Reconstruction as a Cause of Intrastate Violence: An Instrumental Variable Analysis with Application to the 2004 Tsunami in Sri Lanka_ 63(3): 760-785.
+: Kikuta, K. 2019. ["Postdisaster Reconstruction as a Cause of Intrastate Violence: An Instrumental Variable Analysis with Application to the 2004 Tsunami in Sri Lanka."](https://doi.org/10.1177/0022002717753919){:target="_blank"} _Journal of Conflict Resolution_ 63(3): 760-785.
