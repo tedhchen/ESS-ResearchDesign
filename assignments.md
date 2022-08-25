@@ -19,7 +19,7 @@ In each of seven specifically designated weeks (marked in the outline), we will 
 - choose a reading that features the design issue of the week
 - send the reading to the rest of the class by noon on Thursday the previous week
 - prepare a set of discussion questions based on the week's design issue and readings
-- give a 10-15 minute presentation on some aspect of the design issue of the week (ideally, this is on an extension or a "tangent" rather than a summary of the assigned readings)
+- give a 10-15 minute presentation on some aspect of the design issue of the week; ideally, this is on an extension or a "tangent" rather than a summary of the assigned readings, but can definitely include a discussion of the readings
 - facilitate discussion during class
 - if there are two discussion leaders, they should coordinate to avoid overlapping content
 
