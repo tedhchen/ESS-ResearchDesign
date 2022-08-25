@@ -26,7 +26,10 @@ This is a graduate-level course on research design for environmental social scie
 
 **Meeting Locations:** Online
 
-**Office Hours:** TBD and by appointment
+**Office Hours:** 
+- Wed. 11:00am-12:30pm at David King 3036
+- Wed. 7:00-8:30pm online
+- By appointment
 
 **Instructor:**
 {{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}
