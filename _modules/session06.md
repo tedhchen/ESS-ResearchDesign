@@ -19,4 +19,3 @@ Required Readings
 
 Additional Materials
 : Plümper, T., Troeger, V.E., Neumayer, E. 2019. ["Case selection and causal inferences in qualitative comparative research."](https://doi.org/10.1371/journal.pone.0219727){:target="_blank"} _PLOS ONE_ 14(7): e0219727.
-

@@ -17,7 +17,3 @@ Required Readings
   Howe, P.D. et al. 2015. ["Geographic variation in opinions on climate change at state and local scales in the USA."](https://doi.org/10.1038/nclimate2583){:target="_blank"} _Nature Climate Change_ 5: 596-603.
   
   *Student-selected readings TBD.
-
-
-Additional Materials
-: 

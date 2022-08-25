@@ -17,6 +17,3 @@ Required Readings
   King, G. 1995. ["Replication, Replication."](https://doi.org/10.2307/420301){:target="_blank"} _PS: Political Science & Politics_ 28(3): 444-452.
   
   Fariss, C.J., Jones, Z.M. 2018. ["Enhancing Validity in Observational Settings When Replication is Not Possible."](https://doi.org/10.1017/psrm.2017.5){:target="_blank"} _Political Science Research and Methods_ 6(2): 365-380.
-
-Additional Materials
-: 

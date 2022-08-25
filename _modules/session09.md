@@ -16,7 +16,4 @@ Required Readings
 
   *Student-selected readings TBD.
 
-Additional Materials
-: 
-
 **Third checkpoint due Oct 28**{: .label .label-blue }

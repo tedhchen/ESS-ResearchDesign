@@ -15,7 +15,4 @@ Required Readings
   
   *Example discussion readings TBD.
 
-Additional Materials
-: 
-
 **Presentation draft due Nov 18**{: .label .label-blue }
