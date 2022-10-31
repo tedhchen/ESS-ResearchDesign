@@ -12,7 +12,7 @@ Overview
 Required Readings
 : Hazlett, C., Mildenberger, M. 2020. ["Wildfire Exposure Increases Pro-Environment Voting within Democratic but Not Republican Areas."](https://doi.org/10.1017/S0003055420000441){:target="_blank"} _American Political Science Review_ 114(4): 1359-1365.
   
-  Kouskya, C., Michel-Kerjana, E.O., Raschky, P.A. 2018. ["Does federal disaster assistance crowd out flood insurance?"](https://doi.org/10.1016/j.jeem.2017.05.010){:target="_blank"} _Journal of Environmental Economics and Management_ 87: 150-164.
+  Kousky, C., Michel-Kerjana, E.O., Raschky, P.A. 2018. ["Does federal disaster assistance crowd out flood insurance?"](https://doi.org/10.1016/j.jeem.2017.05.010){:target="_blank"} _Journal of Environmental Economics and Management_ 87: 150-164.
 
   *Student-selected readings TBD.
 
