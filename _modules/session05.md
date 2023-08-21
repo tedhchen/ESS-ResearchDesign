@@ -1,24 +1,19 @@
 ---
-title: 'Week 5. Sampling II: Non-probability sampling (Sep 26)'
+title: 'Week 5. Sampling I: Logic of Sampling and Representativeness (Sep 25)'
 type: outline
 ---
 
 Overview
-: - Introduction to various types of non-probability sampling approaches
-  - Compare probability and non-probability sampling schemes with respect to scientific inference
-  - Continue discussing the use of survey research in environmental social science research
-  - Discuss interim research design project
+: - Introduction to the concept of sampling and its role in scientific inference
+  - Identify potential points of deviation from representative sampling
+  - Introduction to "large-n" survey research
+  - Discuss the use of survey research in environmental social science research
 
 Required Readings
-: Heckathorn, D.D., Cameron, C.J. 2017. ["Network Sampling: From Snowball and Multiplicity to Respondent-Driven Sampling."](https://doi.org/10.1146/annurev-soc-060116-053556){:target="_blank"} _Annual Review of Sociology_ 43:101-119.
+: Trochim. ["Sampling."](https://conjointly.com/kb/sampling-in-research/){:target="_blank"} (All subsections.)
 
-  Koubi, V. et al. 2022. ["Climate events and the role of adaptive capacity for (im-)mobility."](https://doi.org/10.1007/s11111-021-00395-5){:target="_blank"} _Population and Environment_ 43: 367–392.
+  Squire, P. 1988. ["Why the 1936 Literary Digest Poll Failed."](https://doi.org/10.1086/269085){:target="_blank"} _Public Opinion Quarterly_ 52(1): 125–133.
   
-  Exadaktylos, F., Espín, A., Brañas-Garza, P. 2013. ["Experimental subjects are not different."](https://doi.org/10.1038/srep01213) _Scientific Reports_ 3: 1213.
+  Howe, P.D. et al. 2015. ["Geographic variation in opinions on climate change at state and local scales in the USA."](https://doi.org/10.1038/nclimate2583){:target="_blank"} _Nature Climate Change_ 5: 596-603.
   
   *Student-selected readings TBD.
-
-Additional Materials
-: Goel, S., Salganik, M.J. 2010. ["Assessing respondent-driven sampling"](https://doi.org/10.1073/pnas.1000261107){:target="_blank"} _Proceedings of the National Academy of Sciences_ 107(15): 6743-6747.
-
-**Second checkpoint due Sep 30**{: .label .label-blue }

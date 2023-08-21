@@ -1,20 +1,21 @@
 ---
-title: 'Week 2. Engaging the Discipline: Identifying Research Questions (Aug 29)'
+title: Week 1. Introduction and Overview (Aug 22)
 type: outline
 ---
 
 Overview
-: - Revisit the question of what is environmental social science
-  - Discuss the balance between theory- and solution-driven research
+: - Introduction to outline and expectations
+  - Define environmental social science
+  - Discuss the nature of inference in science
 
 Required Readings
-: Watts, D. 2017. ["Should social science be more solution-oriented?"](https://doi.org/10.1038/s41562-016-0015){:target="_blank"} _Nature Human Behaviour_ 1: 0015.
+: Ferraro, P.J., Agrawal, A. 2021. ["Synthesizing evidence in sustainability science through harmonized experiments: Community monitoring in common pool resources."](https://doi.org/10.1073/pnas.2106489118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2106489118.
   
-  Slough, T. 2022. ["Phantom Counterfactuals."](https://doi.org/10.1111/ajps.12715){:target="_blank"} _American Journal of Political Science_ (Online first).
+  Mahoney, J. 2010. ["After KKV: The New Methodology of Qualitative Research."](https://doi.org/10.1017/S0043887109990220){:target="_blank"} _World Politics_ 62(1): 120-147.
   
-  Hein C.J. et al. 2018. ["Overcoming early career barriers to interdisciplinary climate change research."](https://doi.org/10.1002/wcc.530){:target="_blank"} _WIREs Climate Change_ e530.
+  Purdon, M. 2015. ["Advancing Comparative Climate Change Politics: Theory and Method."](https://doi.org/10.1162/GLEP_e_00309){:target="_blank"} _Global Environmental Politics_ 15(3): 1-26.
 
 Additional Materials
-: Akerlof, K.L. et al. 2022. ["The Growth and Disciplinary Convergence of Environmental Communication: A Bibliometric Analysis of the Field (1970-2019)."](https://doi.org/10.3389/fenvs.2021.814599){:target="_blank"} _Frontiers in Environmental Science_ 9: 814599.
+: Trochim. ["Foundations."](https://conjointly.com/kb/foundations-of-research/){:target="_blank"} (All subsections.)
   
-  Schmidt, M., Soentgen, J., Zapf, H. 2020. ["Environmental humanities: an emerging field of transdisciplinary research."](https://doi.org/10.14512/gaia.29.4.6){:target="_blank"} _GAIA_ 29(4): 225-229.
+  Barrett, C.B. 2021. ["On design-based empirical research and its interpretation and ethics in sustainability science."](https://doi.org/10.1073/pnas.2023343118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2023343118.

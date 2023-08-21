@@ -1,25 +1,20 @@
 ---
-title: 'Week 3. Measurement: From Concepts to Operationalization (Sep 12)'
+title: 'Week 3. Engaging the Discipline: Identifying Research Questions (Sep 11)'
 type: outline
 ---
 
 Overview
-: - Discuss the importance of measurement to making valid inferences
-  - Explore different types of measurement-focused studies
-  - Discuss interim research design project
+: - Revisit the question of what is environmental social science
+  - Discuss the balance between theory- and solution-driven research
 
 Required Readings
-: Trochim. ["Measurement."](https://conjointly.com/kb/measurement-in-research/){:target="_blank"} (Construct Validity, Reliability, Levels of Measurement.)
-
-  Dunlap, R.E. et al. 2002. ["New Trends in Measuring Environmental Attitudes: Measuring Endorsement of the New Ecological Paradigm: A Revised NEP Scale."](https://doi.org/10.1111/0022-4537.00176){:target="_blank"} _Journal of Social Issues_ 56(3): 425-442.
+: Watts, D. 2017. ["Should social science be more solution-oriented?"](https://doi.org/10.1038/s41562-016-0015){:target="_blank"} _Nature Human Behaviour_ 1: 0015.
   
-  von Stein, J. 2020. ["Democracy, Autocracy, and Everything in Between: How Domestic Institutions Affect Environmental Protection."](https://doi.org/10.1017/S000712342000054X){:target="_blank"} _British Journal of Political Science_ 52(1): 339-357.
+  Slough, T. 2022. ["Phantom Counterfactuals."](https://doi.org/10.1111/ajps.12715){:target="_blank"} _American Journal of Political Science_ (Online first).
   
-  *Student-selected readings TBD.
+  Hein C.J. et al. 2018. ["Overcoming early career barriers to interdisciplinary climate change research."](https://doi.org/10.1002/wcc.530){:target="_blank"} _WIREs Climate Change_ e530.
 
 Additional Materials
-: Golden Kroner, R.E. et al. 2019. ["The uncertain future of protected lands and waters."](https://doi.org/10.1126/science.aau5525){:target="_blank"} _Science_ 364(6443): 881-886.
+: Akerlof, K.L. et al. 2022. ["The Growth and Disciplinary Convergence of Environmental Communication: A Bibliometric Analysis of the Field (1970-2019)."](https://doi.org/10.3389/fenvs.2021.814599){:target="_blank"} _Frontiers in Environmental Science_ 9: 814599.
   
-  Geertz, C. 1973. [Thick Description: Towards an Interpretive Theory of Culture](https://philpapers.org/archive/GEETTD.pdf){:target="_blank"} in _The Interpretation of Cultures_, Basic Books. pp. 310-323.
-
-**First checkpoint due Sep 16**{: .label .label-blue }
+  Schmidt, M., Soentgen, J., Zapf, H. 2020. ["Environmental humanities: an emerging field of transdisciplinary research."](https://doi.org/10.14512/gaia.29.4.6){:target="_blank"} _GAIA_ 29(4): 225-229.

@@ -1,5 +1,5 @@
 ---
-title: 'Week 9. Uncontrolled Treatments II: Assumptions about Comparability (Oct 24)'
+title: 'Week 9. Uncontrolled Treatments II: Assumptions about Comparability (Oct 23)'
 type: outline
 ---
 

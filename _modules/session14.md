@@ -1,5 +1,5 @@
 ---
-title: Week 14. Research Design Presentations (Nov 28)
+title: Week 14. Research Design Presentations (Nov 27)
 type: outline
 ---
 

@@ -1,21 +1,24 @@
 ---
-title: Week 6. Introduction to Causal Inference (Oct 3)
+title: 'Week 6. Sampling II: Non-probability sampling (Oct 2)'
 type: outline
 ---
 
 Overview
-: - Establish baseline knowledge of the causal inference framework
-  - Discuss the concept of comparability in making inferences
-  - Practice identifying and critiquing assumptions in applied causal inference research
+: - Introduction to various types of non-probability sampling approaches
+  - Compare probability and non-probability sampling schemes with respect to scientific inference
+  - Continue discussing the use of survey research in environmental social science research
+  - Discuss interim research design project
 
 Required Readings
-: Trochim. ["Research Design."](https://conjointly.com/kb/research-design/){:target="_blank"} (All subsections.)
+: Heckathorn, D.D., Cameron, C.J. 2017. ["Network Sampling: From Snowball and Multiplicity to Respondent-Driven Sampling."](https://doi.org/10.1146/annurev-soc-060116-053556){:target="_blank"} _Annual Review of Sociology_ 43:101-119.
 
-  Shadish, W.R. 2010. ["Campbell and Rubin: A primer and comparison of their approaches to causal inference in field settings."](https://doi.org/10.1037/a0015916) _Psychological Methods_ 15(1): 3–17.
+  Koubi, V. et al. 2022. ["Climate events and the role of adaptive capacity for (im-)mobility."](https://doi.org/10.1007/s11111-021-00395-5){:target="_blank"} _Population and Environment_ 43: 367–392.
   
-  Barrett, C.B. 2021. ["On design-based empirical research and its interpretation and ethics in sustainability science."](https://doi.org/10.1073/pnas.2023343118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2023343118.
+  Exadaktylos, F., Espín, A., Brañas-Garza, P. 2013. ["Experimental subjects are not different."](https://doi.org/10.1038/srep01213) _Scientific Reports_ 3: 1213.
   
-  Kimmel, K. et al. 2021.["Causal assumptions and causal inference in ecological experiments."](https://doi.org/10.1016/j.tree.2021.08.008){:target="_blank"} _Trends in Ecology & Evolution_ 36(12): 1141-1152.
+  *Student-selected readings TBD.
 
 Additional Materials
-: Plümper, T., Troeger, V.E., Neumayer, E. 2019. ["Case selection and causal inferences in qualitative comparative research."](https://doi.org/10.1371/journal.pone.0219727){:target="_blank"} _PLOS ONE_ 14(7): e0219727.
+: Goel, S., Salganik, M.J. 2010. ["Assessing respondent-driven sampling"](https://doi.org/10.1073/pnas.1000261107){:target="_blank"} _Proceedings of the National Academy of Sciences_ 107(15): 6743-6747.
+
+**Second checkpoint due Sep 30**{: .label .label-blue }

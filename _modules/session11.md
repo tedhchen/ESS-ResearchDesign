@@ -1,5 +1,5 @@
 ---
-title: Week 11. External Validity and Knowledge Accumulation (Nov 7)
+title: Week 11. External Validity and Knowledge Accumulation (Nov 6)
 type: outline
 ---
 
