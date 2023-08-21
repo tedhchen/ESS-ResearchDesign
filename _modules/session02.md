@@ -19,3 +19,5 @@ Additional Materials
 : Trochim. ["Foundations."](https://conjointly.com/kb/foundations-of-research/){:target="_blank"} (All subsections.)
   
   Barrett, C.B. 2021. ["On design-based empirical research and its interpretation and ethics in sustainability science."](https://doi.org/10.1073/pnas.2023343118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2023343118.
+
+**No meeting this week**{: .label .label-red }
