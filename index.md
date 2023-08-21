@@ -22,7 +22,7 @@ This is a graduate-level course on research design for environmental social scie
 
 ## Basics
 
-**Meeting Times:** Mon. 4:40-7:10pm
+**Meeting Times:** Mon. 4:30-7:10pm
 
 **Meeting Locations:** Horizon Hall 4001
 
