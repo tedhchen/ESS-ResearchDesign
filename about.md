@@ -84,7 +84,7 @@ Here is a summary of how assignments weigh in the course score. More information
   </tr>
   <tr>
     <td class="tg-0pky">Research design presentation and peer feedback</td>
-    <td class="tg-c3ow">Nov 28</td>
+    <td class="tg-c3ow">Nov 27</td>
     <td class="tg-c3ow">25%</td>
   </tr>
   <tr>
