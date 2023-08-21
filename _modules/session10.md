@@ -12,6 +12,8 @@ Required Readings
 : Leifeld, P., Schneider, V. 2012. ["Information Exchange in Policy Networks."](https://doi.org/10.1111/j.1540-5907.2011.00580.x){:target="_blank"} _American Journal of Political Science_ 56(3): 731-744.
   
   Nilsson, A., Bergquist, M., Schultz, W.P. 2017. ["Spillover effects in environmental behaviors, across time and context: a review and research agenda."](https://doi.org/10.1080/13504622.2016.1250148){:target="_blank"} _Environmental Education Research_ 23(4): 573-589.
+  
+  Holtz, D. et al. 2020. ["Interdependence and the cost of uncoordinated responses to COVID-19"](https://doi.org/10.1073/pnas.2009522117){:target="_blank"} _Proceedings of the National Academy of Sciences_ 117(33): 19837-19843.
 
   *Student-selected readings TBD.
 
