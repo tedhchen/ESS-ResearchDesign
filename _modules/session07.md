@@ -30,4 +30,5 @@ Additional Materials
   
   King, G. et al. 2011. ["Avoiding Randomization Failure in Program Evaluation, with Application to the Medicare Health Support Program."](https://doi.org/10.1089/pop.2010.0074){:target="_blank"} _Population Health Management_ 14(S1): S11-S22.
 
-**Second checkpoint due Oct 13**{: .label .label-blue }
+**Second checkpoint due Oct 13**{: .label .label-blue } **Note: Meeting is on Tuesday**{: .label .label-red }
+
