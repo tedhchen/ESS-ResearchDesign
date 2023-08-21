@@ -14,6 +14,9 @@ description: George Mason University Policies.
 1. TOC
 {:toc}
 
+### Course Flexibility
+I reserve the right to make changes to the syllabus for the sake of improving the course or accomodating the schedule of external speakers. Students will be given ample notice regarding any major changes to the course plan.
+
 ### Late Policy
 I will deduct one letter grade from a written assignment for each week it is past due. I will give no credit for the in class discussion leader assignment. 
 
