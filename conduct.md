@@ -34,9 +34,5 @@ Examples of unacceptable behavior by all course participants on all course platf
 - Continuing to initiate interaction (including photography or recording) with someone after being asked to stop
 - Publication of private communication without consent
 
-## Online Classroom-specific Addendum
-- During discussions, all participants except for the moderator (i.e. the instructor and designated students) will queue in the chat for their turn to speak
-- Cameras are not required to be on
-
 ## Consequences of Unacceptable Behavior
 Course participants who are asked to stop any inappropriate behavior are expected to comply immediately. If a participant engages in behavior that violates this code of conduct, the instructors may warn the offender or ask them to leave. Continued noncooperation will be addressed via the appropriate university channels.
