@@ -30,7 +30,7 @@ The major assignment in this course is to produce a publication-level and implem
 The research design project should be completed in teams ranging from 1-3 students. Team members will receive the same grade for the project unless there are extenuating circumstances. At any point up until the third checkpoint is submitted, teams can merge until the max of 3 is met.
 
 ### Timeline
-#### First checkpoint 
+#### First checkpoint (Week 4)
 - present the theory and the derived research question
 - propose a measure and discuss its strengths and weaknesses
 - approximately 1-2 pages
@@ -38,14 +38,14 @@ The research design project should be completed in teams ranging from 1-3 studen
 - ready for discussion on Sep 18
 - written version due on Sep 22
 
-#### Second checkpoint
+#### Second checkpoint (Weeks 6 and 7)
 - refinement of previous draft (or completely new topic)
 - discuss the target population and sampling considerations
 - approximately 3-4 pages
-- ready for discussion on Oct 10
+- ready for discussion on Oct 2
 - written version due on Oct 13
 
-#### Third checkpoint
+#### Third checkpoint (Week 10)
 - refinement of previous draft (or completely new topic)
 - discuss all aspects of internal validity in the study (e.g. threats and assumptions required)
 - approximately 4-5 pages
