@@ -6,7 +6,7 @@ type: outline
 Overview
 : - Discuss the importance of measurement to making valid inferences
   - Explore different types of measurement-focused studies
-  - Discuss interim research design project
+  - Discuss interim research design project (focus on research question)
 
 Required Readings
 : Trochim. ["Measurement."](https://conjointly.com/kb/measurement-in-research/){:target="_blank"} (Construct Validity, Reliability, Levels of Measurement.)
