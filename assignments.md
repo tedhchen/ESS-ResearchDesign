@@ -48,7 +48,7 @@ The research design project should be completed in teams ranging from 1-3 studen
 #### Third checkpoint (Week 10)
 - refinement of previous draft (or completely new topic)
 - discuss all aspects of internal validity in the study (e.g. threats and assumptions required)
-- approximately 4-5 pages
+- approximately 5-6 pages
 - ready for discussion Oct 30
 - written version due Nov 3
 
