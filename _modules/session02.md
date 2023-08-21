@@ -1,23 +1,18 @@
 ---
-title: Week 1. Introduction and Overview (Aug 28)
+title: 'Week 2. Engaging the Discipline: Identifying Research Questions I (Aug 28)'
 type: outline
 ---
 
 Overview
-: - Introduction to outline and expectations
-  - Define environmental social science
-  - Discuss the nature of inference in science
+: - Continue discussion of what environmental social science is
+  - Consider our role and goals as environmental social scientists
 
 Required Readings
 : Ferraro, P.J., Agrawal, A. 2021. ["Synthesizing evidence in sustainability science through harmonized experiments: Community monitoring in common pool resources."](https://doi.org/10.1073/pnas.2106489118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2106489118.
   
-  Mahoney, J. 2010. ["After KKV: The New Methodology of Qualitative Research."](https://doi.org/10.1017/S0043887109990220){:target="_blank"} _World Politics_ 62(1): 120-147.
-  
-  Purdon, M. 2015. ["Advancing Comparative Climate Change Politics: Theory and Method."](https://doi.org/10.1162/GLEP_e_00309){:target="_blank"} _Global Environmental Politics_ 15(3): 1-26.
+  Hein C.J. et al. 2018. ["Overcoming early career barriers to interdisciplinary climate change research."](https://doi.org/10.1002/wcc.530){:target="_blank"} _WIREs Climate Change_ e530.
 
 Additional Materials
-: Trochim. ["Foundations."](https://conjointly.com/kb/foundations-of-research/){:target="_blank"} (All subsections.)
+: Schmidt, M., Soentgen, J., Zapf, H. 2020. ["Environmental humanities: an emerging field of transdisciplinary research."](https://doi.org/10.14512/gaia.29.4.6){:target="_blank"} _GAIA_ 29(4): 225-229.
   
-  Barrett, C.B. 2021. ["On design-based empirical research and its interpretation and ethics in sustainability science."](https://doi.org/10.1073/pnas.2023343118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2023343118.
-
 **No meeting this week**{: .label .label-red }
