@@ -8,7 +8,7 @@ description: Outline of the code of conduct for this course.
 # Code of Conduct
 As stated in the [Course Expectations]({{ site.baseurl }}/about/#course-expectations), all participants of this course, including instructors, students, and guest lecturers, should strive to make this course a respectful space that is conducive for inclusive learning. To ensure this goal is met, we ask all participants to follow this Code of Conduct. 
 
-This Code of Conduct is (lightly) adapted from the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) developed by [The Carpentries](https://docs.carpentries.org/index.html), originally licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The Online Classroom-specific Addendum is developed by participants of EVPP 632 (2022).
+This Code of Conduct is (lightly) adapted from the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html){:target="_blank"} developed by [The Carpentries](https://docs.carpentries.org/index.html){:target="_blank"}, originally licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.
 
 ## Expected Behavior
 All course participants are expected to show respect and courtesy to others. All interactions should be professional regardless of platform, including the physical or online classroom, the course slack, and all other course-related communications. To foster a positive, inclusive, and professional learning environment, we encourage the following kinds of behaviors in all course related communications:
