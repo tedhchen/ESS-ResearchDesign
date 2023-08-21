@@ -20,5 +20,3 @@ Required Readings
 
 Additional Materials
 : Goel, S., Salganik, M.J. 2010. ["Assessing respondent-driven sampling"](https://doi.org/10.1073/pnas.1000261107){:target="_blank"} _Proceedings of the National Academy of Sciences_ 107(15): 6743-6747.
-
-**Second checkpoint due Sep 30**{: .label .label-blue }

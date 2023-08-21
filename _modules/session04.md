@@ -22,4 +22,4 @@ Additional Materials
   
   Geertz, C. 1973. [Thick Description: Towards an Interpretive Theory of Culture](https://philpapers.org/archive/GEETTD.pdf){:target="_blank"} in _The Interpretation of Cultures_, Basic Books. pp. 310-323.
 
-**First checkpoint due Sep 16**{: .label .label-blue }
+**First checkpoint due Sep 22**{: .label .label-blue }

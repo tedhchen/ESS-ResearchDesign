@@ -20,3 +20,5 @@ Additional Materials
   Chen, T.H.Y. 2019. ["Statistical inference for multilayer networks in political science."](https://doi.org/10.1017/psrm.2019.49){:target="_blank"} _Political Science Research and Methods_ 9(2): 380-397.
   
   Kwan, M. 2018. ["The Limits of the Neighborhood Effect: Contextual Uncertainties in Geographic, Environmental Health, and Social Science Research."](https://doi.org/10.1080/24694452.2018.1453777){:target="_blank"} _Annals of the American Association of Geographers_ 108(6): 1482-1490.
+
+**Third checkpoint due Nov 3**{: .label .label-blue }

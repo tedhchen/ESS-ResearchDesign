@@ -15,4 +15,4 @@ Required Readings
   
   *Example discussion readings TBD.
 
-**Presentation draft due Nov 18**{: .label .label-blue }
+**Presentation draft due Nov 17**{: .label .label-blue }

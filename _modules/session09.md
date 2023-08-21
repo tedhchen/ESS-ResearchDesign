@@ -15,5 +15,3 @@ Required Readings
   Kousky, C., Michel-Kerjana, E.O., Raschky, P.A. 2018. ["Does federal disaster assistance crowd out flood insurance?"](https://doi.org/10.1016/j.jeem.2017.05.010){:target="_blank"} _Journal of Environmental Economics and Management_ 87: 150-164.
 
   *Student-selected readings TBD.
-
-**Third checkpoint due Oct 28**{: .label .label-blue }
