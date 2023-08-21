@@ -9,10 +9,14 @@ Overview
   - Discuss whether social science has a "responsibility" to society (if so, what?)
 
 Required Readings
-: Asiedu, E. et al. 2021. ["A call for structured ethics appendices in social science papers."](https://doi.org/10.1073/pnas.2024570118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2024570118.
+: Human Subjects Ethics Training (CITI Program). See instructions at the GMU Office of Research Integrity and Assurance [website](https://oria.gmu.edu/topics/human-subjects/training/){:target="_blank"}.
 
-  Human Subjects Ethics Training (CITI Program). See instructions at the GMU Office of Research Integrity and Assurance [website](https://oria.gmu.edu/topics/human-subjects/training/){:target="_blank"}.
+  Asiedu, E. et al. 2021. ["A call for structured ethics appendices in social science papers."](https://doi.org/10.1073/pnas.2024570118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2024570118.
   
-  *Example discussion readings TBD.
+  Haggerty, K.D. 2004. ["Ethics Creep: Governing Social Science Research in the Name of Ethics."](https://doi.org/10.1023/B:QUAS.0000049239.15922.a3){:target="_blank"} _Qualitative Sociology_ 27, 391-414.
+  
+  Dattalo, P. 2010. ["Ethical Dilemmas in Sampling."](https://jswve.org/volume-07/issue-1/){:target="_blank"} _Journal of Social Work Values and Ethics_ 7(1).
+  
+  Desposato, S. 2018. ["Subjects and Scholars’ Views on the Ethics of Political Science Field Experiments."](https://doi.org/10.1017/S1537592717004297){:target="_blank"} _Perspective on Politics_ 16(3): 739-750.
 
 **Presentation draft due Nov 17**{: .label .label-blue }
