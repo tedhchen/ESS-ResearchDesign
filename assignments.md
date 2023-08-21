@@ -62,4 +62,4 @@ The research design project should be completed in teams ranging from 1-3 studen
 
 #### Written design
 - final version due Dec 14
-- approximately 5-6 pages
+- approximately 6-7 pages
