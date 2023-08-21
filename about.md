@@ -161,4 +161,4 @@ Here is how course scores correspond to letter grades.
 </table>
 
 ## Acknowledgements
-This course design is based heavily on PLSC 501 (Pennsylvania State University) by Christopher Fariss. It also draws on EVPP 632 (George Mason University) by Susan A. Crate.
+This course design is based heavily on PLSC 501 (Pennsylvania State University) by Christopher Fariss. It also draws on EVPP 632 (George Mason University) by Susan A. Crate. Some reading selections are contributed by students from previous EVPP 632 classes.
