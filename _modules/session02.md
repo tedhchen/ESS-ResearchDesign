@@ -1,5 +1,5 @@
 ---
-title: Week 1. Introduction and Overview (Aug 22)
+title: Week 1. Introduction and Overview (Aug 28)
 type: outline
 ---
 
