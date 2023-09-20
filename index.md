@@ -27,7 +27,7 @@ This is a graduate-level course on research design for environmental social scie
 **Meeting Locations:** Horizon Hall 4001
 
 **Office Hours:** 
-- Wed. 11:00am-12:30pm at David King 3036
+- Wed. 10:00am-11:30pm at David King 3036
 - Wed. 3:30-5:00pm online
 - By appointment
 
