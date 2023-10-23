@@ -13,4 +13,6 @@ Required Readings
   
   Kousky, C., Michel-Kerjana, E.O., Raschky, P.A. 2018. ["Does federal disaster assistance crowd out flood insurance?"](https://doi.org/10.1016/j.jeem.2017.05.010){:target="_blank"} _Journal of Environmental Economics and Management_ 87: 150-164.
 
+  Wuepper, D., Borrelli, P., Finger, R. 2020. ["Countries and the global rate of soil erosion."](https://doi.org/10.1038/s41893-019-0438-4){:target="_blank"} _Nature Sustainability_ 3: 51-55.
+
   *Student-selected readings TBD.
