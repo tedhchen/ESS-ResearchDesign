@@ -14,6 +14,8 @@ Required Readings
   Nilsson, A., Bergquist, M., Schultz, W.P. 2017. ["Spillover effects in environmental behaviors, across time and context: a review and research agenda."](https://doi.org/10.1080/13504622.2016.1250148){:target="_blank"} _Environmental Education Research_ 23(4): 573-589.
   
   Holtz, D. et al. 2020. ["Interdependence and the cost of uncoordinated responses to COVID-19"](https://doi.org/10.1073/pnas.2009522117){:target="_blank"} _Proceedings of the National Academy of Sciences_ 117(33): 19837-19843.
+  
+  D'Alberto, R. et al. 2024. ["The environmental and socioeconomic impacts of the Italian National Parks: Time and spillover effects across different geographical contexts."](https://doi.org/10.1016/j.gloenvcha.2024.102838){:target="_blank"} _Global Environmental Change_ 86: 102838.
 
   *Student-selected readings TBD.
 
