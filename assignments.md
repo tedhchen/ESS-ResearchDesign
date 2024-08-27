@@ -34,7 +34,7 @@ The research design project should be completed individually.
 - present the theory and the derived research question
 - propose a measure and discuss its strengths and weaknesses
 - approximately 1-2 pages
-- meet Ted by Sep 15 to discuss project ideas
+- meet Ted by Sep 13 to discuss project ideas
 - ready for discussion on Sep 17
 - written version due on Sep 20
 
