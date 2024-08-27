@@ -1,5 +1,5 @@
 ---
-title: 'Week 4. Measurement: From Concepts to Operationalization (Sep 18)'
+title: 'Week 4. Measurement: From Concepts to Operationalization (Sep 17)'
 type: outline
 ---
 

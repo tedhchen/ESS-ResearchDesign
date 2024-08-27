@@ -1,5 +1,5 @@
 ---
-title: 'Week 5. Sampling I: Logic of Sampling and Representativeness (Sep 25)'
+title: 'Week 5. Sampling I: Logic of Sampling and Representativeness (Sep 24)'
 type: outline
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Week 7. Introduction to Causal Inference and Controlled Experiments (Oct 10)
+title: Week 7. Introduction to Causal Inference and Controlled Experiments (Oct 8)
 type: outline
 ---
 

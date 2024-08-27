@@ -1,5 +1,5 @@
 ---
-title: 'Week 8. Uncontrolled Treatments I: Noncompliance and Instrumental Variables (Oct 16)'
+title: 'Week 8. Uncontrolled Treatments I: Noncompliance and Instrumental Variables (Oct 15)'
 type: outline
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Week 10. Relaxing Assumptions about Unit Independence: Networks and Complexity (Oct 30)'
+title: 'Week 10. Relaxing Assumptions about Unit Independence: Networks and Complexity (Oct 29)'
 type: outline
 ---
 

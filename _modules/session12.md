@@ -1,5 +1,5 @@
 ---
-title: 'Week 12. Research Ethics: Interacting with Subjects and the Broader Society (Nov 13)'
+title: 'Week 12. Research Ethics: Interacting with Subjects and the Broader Society (Nov 19)'
 type: outline
 ---
 

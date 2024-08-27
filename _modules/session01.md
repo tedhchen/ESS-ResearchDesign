@@ -1,5 +1,5 @@
 ---
-title: 'Week 1. Introduction and Overview (Aug 21)'
+title: 'Week 1. Introduction and Overview (Aug 27)'
 type: outline
 ---
 

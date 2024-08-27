@@ -1,5 +1,5 @@
 ---
-title: 'Week 2. Engaging the Discipline I: Who are we and what do we do as environmental social scientists? (Aug 28)'
+title: 'Week 2. Engaging the Discipline I: Who are we and what do we do as environmental social scientists? (Sep 3)'
 type: outline
 ---
 

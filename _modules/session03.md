@@ -1,5 +1,5 @@
 ---
-title: 'Week 3. Engaging the Discipline II: Identifying Research Questions (Sep 11)'
+title: 'Week 3. Engaging the Discipline II: Identifying Research Questions (Sep 10)'
 type: outline
 ---
 
