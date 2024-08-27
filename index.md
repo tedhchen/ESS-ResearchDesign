@@ -9,7 +9,7 @@ seo:
 
 # Research Design for Environmental Social Science
 {: .mb-2 }
-Course website for EVPP 632 at George Mason University (Fall 2023).
+Course website for EVPP 632 at George Mason University (Fall 2024).
 {: .fs-6 .fw-300 }
 
 ## About
@@ -22,13 +22,12 @@ This is a graduate-level course on research design for environmental social scie
 
 ## Basics
 
-**Meeting Times:** Mon. 4:30-7:10pm
+**Meeting Times:** Tue. 4:30-7:10pm
 
-**Meeting Locations:** Horizon Hall 4001
+**Meeting Locations:** Angel Cabrera Global Center 1306B
 
 **Office Hours:** 
-- Wed. 10:00am-11:30pm at David King 3036
-- Wed. 3:30-5:00pm online
+- Mon. 11:00am-12:30pm at David King 3036
 - By appointment
 
 **Instructor:**
