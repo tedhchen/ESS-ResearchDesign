@@ -14,6 +14,5 @@ Required Readings
   Purdon, M. 2015. ["Advancing Comparative Climate Change Politics: Theory and Method."](https://doi.org/10.1162/GLEP_e_00309){:target="_blank"} _Global Environmental Politics_ 15(3): 1-26.
   
   Akerlof, K.L. et al. 2022. ["The Growth and Disciplinary Convergence of Environmental Communication: A Bibliometric Analysis of the Field (1970-2019)."](https://doi.org/10.3389/fenvs.2021.814599){:target="_blank"} _Frontiers in Environmental Science_ 9: 814599.
-
-Additional Materials
-: Slough, T. 2022. ["Phantom Counterfactuals."](https://doi.org/10.1111/ajps.12715){:target="_blank"} _American Journal of Political Science_ (Online first).
+  
+  Slough, T. 2022. ["Phantom Counterfactuals."](https://doi.org/10.1111/ajps.12715){:target="_blank"} _American Journal of Political Science_ (Online first).
