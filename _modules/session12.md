@@ -19,4 +19,4 @@ Required Readings
   
   Desposato, S. 2018. ["Subjects and Scholars’ Views on the Ethics of Political Science Field Experiments."](https://doi.org/10.1017/S1537592717004297){:target="_blank"} _Perspective on Politics_ 16(3): 739-750.
 
-**Presentation draft due Nov 17**{: .label .label-blue }
+**Presentation draft due Nov 22**{: .label .label-blue }

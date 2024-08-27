@@ -6,4 +6,4 @@ type: outline
 Overview
 : Research design presentations and peer feedback
 
-**Peer feedback due Nov 28**{: .label .label-blue } **Final projects due Dec 12**{: .label .label-blue }
+**Peer feedback due Dec 6**{: .label .label-blue } **Final projects due Dec 15**{: .label .label-blue }

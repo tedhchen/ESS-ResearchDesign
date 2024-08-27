@@ -14,5 +14,3 @@ Required Readings
 
 Additional Materials
 : Schmidt, M., Soentgen, J., Zapf, H. 2020. ["Environmental humanities: an emerging field of transdisciplinary research."](https://doi.org/10.14512/gaia.29.4.6){:target="_blank"} _GAIA_ 29(4): 225-229.
-  
-**No meeting this week**{: .label .label-red }

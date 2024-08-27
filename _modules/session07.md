@@ -32,5 +32,5 @@ Additional Materials
   
   Sakagami, T,. Ohta, M. 2010. ["The effect of visiting zoos on human health and quality of life."](https://doi.org/10.1111/j.1740-0929.2009.00714.x){:target="_blank"} _Animal Science Journal_ 81(1): 129-134.
 
-**Second checkpoint due Oct 13**{: .label .label-blue } **Note: Meeting is on Tuesday**{: .label .label-red }
+**Second checkpoint due Oct 11**{: .label .label-blue }
 
