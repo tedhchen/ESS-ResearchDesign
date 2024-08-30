@@ -20,7 +20,7 @@ Required Readings
   *Student-selected readings TBD.
 
 Additional Materials
-: Deschenes, O., Meng, K.C. 2018. ["Quasi-experimental methods in environmental economics: Opportunities and challenges."](https://doi.org/10.1016/bs.hesenv.2018.08.001){:target="_blank"} in _Handbook of Environmental Economics_ vol.4, pp. 285-332.
+: Deschenes, O., Meng, K.C. 2018. ["Quasi-experimental methods in environmental economics: Opportunities and challenges."](https://www.sciencedirect.com/science/article/abs/pii/S1574009918300068){:target="_blank"} in _Handbook of Environmental Economics_ vol.4, pp. 285-332.
 
   Chen, T.H.Y. 2019. ["Statistical inference for multilayer networks in political science."](https://doi.org/10.1017/psrm.2019.49){:target="_blank"} _Political Science Research and Methods_ 9(2): 380-397.
   
