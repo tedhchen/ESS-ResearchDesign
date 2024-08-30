@@ -15,7 +15,7 @@ Required Readings
   
   von Stein, J. 2020. ["Democracy, Autocracy, and Everything in Between: How Domestic Institutions Affect Environmental Protection."](https://doi.org/10.1017/S000712342000054X){:target="_blank"} _British Journal of Political Science_ 52(1): 339-357.
   
-  Ratledge, N. et al. 2024. ["Using machine learning to assess the livelihood impact of electricity access."](https://doi.org/10.1038/s41586-022-05322-8){:target="_blank"} _Nature_ 661: 491–495.
+  Ratledge, N. et al. 2022. ["Using machine learning to assess the livelihood impact of electricity access."](https://doi.org/10.1038/s41586-022-05322-8){:target="_blank"} _Nature_ 661: 491–495.
   
   *Student-selected readings TBD.
 
