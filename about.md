@@ -75,7 +75,12 @@ Here is a summary of how assignments weigh in the course score. More information
   <tr>
     <td class="tg-0pky">Class participation</td>
     <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">10%</td>
+    <td class="tg-c3ow">15%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Theory short written assignment</td>
+    <td class="tg-c3ow">Sep 12</td>
+    <td class="tg-c3ow">5%</td>
   </tr>
   <tr>
     <td class="tg-0pky">Interim checkpoints for research design project</td>
@@ -85,12 +90,12 @@ Here is a summary of how assignments weigh in the course score. More information
   <tr>
     <td class="tg-0pky">Research design presentation and peer feedback</td>
     <td class="tg-c3ow">Nov 27</td>
-    <td class="tg-c3ow">25%</td>
+    <td class="tg-c3ow">20%</td>
   </tr>
   <tr>
     <td class="tg-0pky">Written research design</td>
     <td class="tg-c3ow">Dec 15</td>
-    <td class="tg-c3ow">25%</td>
+    <td class="tg-c3ow">20%</td>
   </tr>
 </tbody>
 </table>
