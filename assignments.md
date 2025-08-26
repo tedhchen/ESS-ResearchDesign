@@ -24,7 +24,7 @@ In each of seven specifically designated weeks (marked in the outline), we will 
 - if there are two discussion leaders, they should coordinate to avoid overlapping content
 
 ## "What is theory and what is it good for?" Short Writing Assignment
-Drawing on the readings and discussions from weeks 1-3, discuss  what you think "theory" is, and why might it be good (or bad) for the scientific endeavor. Your discussion should engage with (and cite) the assigned readings and beyond, but it should not be a simple summary of what others have said. It is a think piece with arguments grounded in existing work.
+Drawing on the readings and discussions from weeks 1-3, discuss  what you think "theory" is, and why might theory/theories be good (or bad) for the scientific endeavor. Your discussion should engage with (and cite) the assigned readings and beyond, but it should not be a simple summary of what others have said. It is a think piece with your arguments grounded in existing work.
 - the discussion should be about 1000 words
 - due on Sep 12
 
