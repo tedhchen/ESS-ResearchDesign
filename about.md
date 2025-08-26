@@ -84,17 +84,17 @@ Here is a summary of how assignments weigh in the course score. More information
   </tr>
   <tr>
     <td class="tg-0pky">Interim checkpoints for research design project</td>
-    <td class="tg-c3ow">Sep 20, Oct 11, Nov 1, Nov 22</td>
+    <td class="tg-c3ow">Sep 19, Oct 10, Oct 31, Nov 21</td>
     <td class="tg-c3ow">20%</td>
   </tr>
   <tr>
     <td class="tg-0pky">Research design presentation and peer feedback</td>
-    <td class="tg-c3ow">Nov 27</td>
+    <td class="tg-c3ow">Nov 26</td>
     <td class="tg-c3ow">20%</td>
   </tr>
   <tr>
     <td class="tg-0pky">Written research design</td>
-    <td class="tg-c3ow">Dec 15</td>
+    <td class="tg-c3ow">Dec 14</td>
     <td class="tg-c3ow">20%</td>
   </tr>
 </tbody>
