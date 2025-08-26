@@ -16,3 +16,5 @@ Required Readings
   Akerlof, K.L. et al. 2022. ["The Growth and Disciplinary Convergence of Environmental Communication: A Bibliometric Analysis of the Field (1970-2019)."](https://doi.org/10.3389/fenvs.2021.814599){:target="_blank"} _Frontiers in Environmental Science_ 9: 814599.
   
   Slough, T. 2022. ["Phantom Counterfactuals."](https://doi.org/10.1111/ajps.12715){:target="_blank"} _American Journal of Political Science_ (Online first).
+
+**Theory short writing assignment due Sep 12**{: .label .label-blue }

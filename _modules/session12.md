@@ -22,4 +22,4 @@ Required Readings
 Additional Materials
 : Dattalo, P. 2010. ["Ethical Dilemmas in Sampling."](https://jswve.org/volume-07/issue-1/){:target="_blank"} _Journal of Social Work Values and Ethics_ 7(1).
 
-**Presentation draft due Nov 22**{: .label .label-blue }
+**Presentation draft due Nov 21**{: .label .label-blue }
