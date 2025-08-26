@@ -41,30 +41,30 @@ The research design project should be completed individually.
 - approximately 2-3 pages
 - meet Ted by Sep 13 to discuss project ideas
 - ready for discussion on Sep 17
-- written version due on Sep 20
+- written version due on Sep 19
 
 #### Second checkpoint (Weeks 6 and 7)
 - refinement of previous draft (or completely new topic)
 - discuss the target population and sampling considerations
 - approximately 4-5 pages
 - ready for discussion on Oct 1
-- written version due on Oct 11
+- written version due on Oct 10
 
 #### Third checkpoint (Week 10)
 - refinement of previous draft (or completely new topic)
 - discuss all aspects of internal validity in the study (e.g. threats and assumptions required)
 - approximately 6-8 pages
 - ready for discussion Oct 29
-- written version due Nov 1
+- written version due Oct 31
 
 #### Presentation (Week 14)
 - 20 minute presentation on Dec 3
-- written draft due Nov 22 (for peer feedback purposes)
+- written draft due Nov 21 (for peer feedback purposes)
 
 #### Peer Feedback
 - 5 minute peer review presentation on Dec 3
-- written version (1-2 pages) due Dec 6
+- written version (1-2 pages) due Dec 5
 
 #### Written design
-- final version due Dec 15
+- final version due Dec 14
 - approximately 8-10 pages
