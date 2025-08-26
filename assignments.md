@@ -33,7 +33,7 @@ The research design project should be completed individually.
 #### First checkpoint (Week 4)
 - present the theory and the derived research question
 - propose a measure and discuss its strengths and weaknesses
-- approximately 1-2 pages
+- approximately 2-3 pages
 - meet Ted by Sep 13 to discuss project ideas
 - ready for discussion on Sep 17
 - written version due on Sep 20
@@ -41,14 +41,14 @@ The research design project should be completed individually.
 #### Second checkpoint (Weeks 6 and 7)
 - refinement of previous draft (or completely new topic)
 - discuss the target population and sampling considerations
-- approximately 3-4 pages
+- approximately 4-5 pages
 - ready for discussion on Oct 1
 - written version due on Oct 11
 
 #### Third checkpoint (Week 10)
 - refinement of previous draft (or completely new topic)
 - discuss all aspects of internal validity in the study (e.g. threats and assumptions required)
-- approximately 5-6 pages
+- approximately 6-8 pages
 - ready for discussion Oct 29
 - written version due Nov 1
 
@@ -62,4 +62,4 @@ The research design project should be completed individually.
 
 #### Written design
 - final version due Dec 15
-- approximately 6-7 pages
+- approximately 8-10 pages
