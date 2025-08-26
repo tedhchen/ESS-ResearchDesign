@@ -23,6 +23,11 @@ In each of seven specifically designated weeks (marked in the outline), we will 
 - facilitate discussion during class
 - if there are two discussion leaders, they should coordinate to avoid overlapping content
 
+## "What is theory and what is it good for?" Short Writing Assignment
+Drawing on the readings and discussions from weeks 1-3, discuss  what you think "theory" is, and why might it be good (or bad) for the scientific endeavor. Your discussion should engage with (and cite) the assigned readings and beyond, but it should not be a simple summary of what others have said. It is a think piece with arguments grounded in existing work.
+- the discussion should be about 1000 words
+- due on Sep 12
+
 ## Research Design Project
 The major assignment in this course is to produce a publication-level and implementable research design.
 
