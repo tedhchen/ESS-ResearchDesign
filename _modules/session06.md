@@ -1,5 +1,5 @@
 ---
-title: 'Week 6. Sampling II: Non-probability sampling (Oct 1)'
+title: 'Week 6. Sampling II: Non-probability sampling (Feb 25)'
 type: outline
 ---
 

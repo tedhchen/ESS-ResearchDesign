@@ -1,5 +1,5 @@
 ---
-title: 'Week 12. Research Ethics: Interacting with Subjects and the Broader Society (Nov 19)'
+title: 'Week 12. Research Ethics: Interacting with Subjects and the Broader Society (Apr 15)'
 type: outline
 ---
 
@@ -22,4 +22,4 @@ Required Readings
 Additional Materials
 : Dattalo, P. 2010. ["Ethical Dilemmas in Sampling."](https://jswve.org/volume-07/issue-1/){:target="_blank"} _Journal of Social Work Values and Ethics_ 7(1).
 
-**Presentation draft due Nov 21**{: .label .label-blue }
+**Presentation draft due Apr 17**{: .label .label-blue }

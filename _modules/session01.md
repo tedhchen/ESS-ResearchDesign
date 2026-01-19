@@ -1,5 +1,5 @@
 ---
-title: 'Week 1. Introduction and Overview (Aug 27)'
+title: 'Week 1. Introduction and Overview (Jan 21)'
 type: outline
 ---
 
@@ -15,3 +15,5 @@ Required Readings
 
 Additional Materials
 : Mahoney, J. 2010. ["After KKV: The New Methodology of Qualitative Research."](https://doi.org/10.1017/S0043887109990220){:target="_blank"} _World Politics_ 62(1): 120-147.
+
+  Purdon, M. 2015. ["Advancing Comparative Climate Change Politics: Theory and Method."](https://doi.org/10.1162/GLEP_e_00309){:target="_blank"} _Global Environmental Politics_ 15(3): 1-26.

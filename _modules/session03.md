@@ -1,20 +1,25 @@
 ---
-title: 'Week 3. Engaging the Discipline II: Identifying Research Questions (Sep 10)'
+title: 'Week 3. Measurement: From Concepts to Operationalization (Feb 4)'
 type: outline
 ---
 
 Overview
-: - Consider what a theory is and what it is good for
-  - Discuss how to come up with research questions
-  - Discuss the balance between theory- and solution-driven research
+: - Discuss the importance of measurement to making valid inferences
+  - Explore different types of measurement-focused studies
+  - Discuss interim research design project (focus on research question)
 
 Required Readings
-: Watts, D. 2017. ["Should social science be more solution-oriented?"](https://doi.org/10.1038/s41562-016-0015){:target="_blank"} _Nature Human Behaviour_ 1: 0015.
+: Trochim. ["Measurement."](https://conjointly.com/kb/measurement-in-research/){:target="_blank"} (Construct Validity, Reliability, Levels of Measurement.)
 
-  Purdon, M. 2015. ["Advancing Comparative Climate Change Politics: Theory and Method."](https://doi.org/10.1162/GLEP_e_00309){:target="_blank"} _Global Environmental Politics_ 15(3): 1-26.
+  Dunlap, R.E. et al. 2002. ["New Trends in Measuring Environmental Attitudes: Measuring Endorsement of the New Ecological Paradigm: A Revised NEP Scale."](https://doi.org/10.1111/0022-4537.00176){:target="_blank"} _Journal of Social Issues_ 56(3): 425-442.
   
-  Akerlof, K.L. et al. 2022. ["The Growth and Disciplinary Convergence of Environmental Communication: A Bibliometric Analysis of the Field (1970-2019)."](https://doi.org/10.3389/fenvs.2021.814599){:target="_blank"} _Frontiers in Environmental Science_ 9: 814599.
+  von Stein, J. 2020. ["Democracy, Autocracy, and Everything in Between: How Domestic Institutions Affect Environmental Protection."](https://doi.org/10.1017/S000712342000054X){:target="_blank"} _British Journal of Political Science_ 52(1): 339-357.
   
-  Slough, T. 2022. ["Phantom Counterfactuals."](https://doi.org/10.1111/ajps.12715){:target="_blank"} _American Journal of Political Science_ (Online first).
+  Ratledge, N. et al. 2022. ["Using machine learning to assess the livelihood impact of electricity access."](https://doi.org/10.1038/s41586-022-05322-8){:target="_blank"} _Nature_ 661: 491–495.
+  
+  *Student-selected readings TBD.
 
-**Theory short writing assignment due Sep 12**{: .label .label-blue }
+Additional Materials
+: Golden Kroner, R.E. et al. 2019. ["The uncertain future of protected lands and waters."](https://doi.org/10.1126/science.aau5525){:target="_blank"} _Science_ 364(6443): 881-886.
+  
+  Geertz, C. 1973. [Thick Description: Towards an Interpretive Theory of Culture](https://philpapers.org/archive/GEETTD.pdf){:target="_blank"} in _The Interpretation of Cultures_, Basic Books. pp. 310-323.

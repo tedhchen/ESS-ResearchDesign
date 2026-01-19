@@ -1,5 +1,5 @@
 ---
-title: 'Week 10. Relaxing Assumptions about Unit Independence: Networks and Complexity (Oct 29)'
+title: 'Week 10. Relaxing Assumptions about Unit Independence: Networks and Complexity (Apr 1)'
 type: outline
 ---
 
@@ -26,4 +26,4 @@ Additional Materials
   
   Kwan, M. 2018. ["The Limits of the Neighborhood Effect: Contextual Uncertainties in Geographic, Environmental Health, and Social Science Research."](https://doi.org/10.1080/24694452.2018.1453777){:target="_blank"} _Annals of the American Association of Geographers_ 108(6): 1482-1490.
 
-**Third checkpoint due Oct 31**{: .label .label-blue }
+**Third checkpoint due Apr 5**{: .label .label-blue }
