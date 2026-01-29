@@ -26,7 +26,7 @@ In each of seven specifically designated weeks (marked in the outline), we will 
 ## "What is theory and what is it good for?" Short Writing Assignment
 Drawing on the readings and discussions from weeks 1-2, discuss  what you think "theory" is, and why might theory/theories be good (or bad) for the scientific endeavor. Your discussion should engage with (and cite) the assigned readings and beyond, but it should not be a simple summary of what others have said. It is a think piece with your arguments grounded in existing work.
 - the discussion should be about 1000 words
-- due on Feb 1
+- due on Feb 8
 
 ## Research Design Project
 The major assignment in this course is to produce a publication-level and implementable research design.
@@ -39,26 +39,26 @@ The research design project should be completed individually.
 - present the theory and the derived research question
 - propose a measure and discuss its strengths and weaknesses
 - approximately 2-3 pages
-- ready for interim discussion on Feb 4
+- ready for interim discussion on Feb 11
 - written version due on Feb 15
 
 #### Second checkpoint
 - refinement of previous draft (or completely new topic)
 - discuss the target population and sampling considerations
 - approximately 4-5 pages
-- ready for interim discussion on Feb 25
+- ready for interim discussion on Feb 25 and Mar 4
 - written version due on Mar 8
 
 #### Third checkpoint
 - refinement of previous draft (or completely new topic)
 - discuss all aspects of internal validity in the study (e.g. threats and assumptions required)
 - approximately 6-8 pages
-- ready for discussion Apr 1
+- ready for discussion Mar 25 and Apr 1
 - written version due Apr 5
 
 #### Presentation (Week 14)
 - 20 minute presentation on Apr 29
-- written draft due Apr 17 (for peer feedback purposes)
+- written draft due Apr 20 (for peer feedback purposes)
 
 #### Peer Feedback
 - 5 minute peer review presentation on Apr 29
