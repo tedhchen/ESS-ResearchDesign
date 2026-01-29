@@ -1,21 +1,27 @@
 ---
-title: 'Week 4. Sampling I: Logic of Sampling and Representativeness (Feb 11)'
+title: 'Week 4. Measurement: From Concepts to Operationalization (Feb 11)'
 type: outline
 ---
 
 Overview
-: - Introduction to the concept of sampling and its role in scientific inference
-  - Identify potential points of deviation from representative sampling
-  - Introduction to "large-n" survey research
-  - Discuss the use of survey research in environmental social science research
+: - Discuss the importance of measurement to making valid inferences
+  - Explore different types of measurement-focused studies
+  - Discuss interim research design project (focus on research question)
 
 Required Readings
-: Trochim. ["Sampling."](https://conjointly.com/kb/sampling-in-research/){:target="_blank"} (All subsections.)
+: Trochim. ["Measurement."](https://conjointly.com/kb/measurement-in-research/){:target="_blank"} (Construct Validity, Reliability, Levels of Measurement.)
 
-  Squire, P. 1988. ["Why the 1936 Literary Digest Poll Failed."](https://doi.org/10.1086/269085){:target="_blank"} _Public Opinion Quarterly_ 52(1): 125–133.
+  Dunlap, R.E. et al. 2002. ["New Trends in Measuring Environmental Attitudes: Measuring Endorsement of the New Ecological Paradigm: A Revised NEP Scale."](https://doi.org/10.1111/0022-4537.00176){:target="_blank"} _Journal of Social Issues_ 56(3): 425-442.
   
-  Howe, P.D. et al. 2015. ["Geographic variation in opinions on climate change at state and local scales in the USA."](https://doi.org/10.1038/nclimate2583){:target="_blank"} _Nature Climate Change_ 5: 596-603.
+  von Stein, J. 2020. ["Democracy, Autocracy, and Everything in Between: How Domestic Institutions Affect Environmental Protection."](https://doi.org/10.1017/S000712342000054X){:target="_blank"} _British Journal of Political Science_ 52(1): 339-357.
+  
+  Ratledge, N. et al. 2022. ["Using machine learning to assess the livelihood impact of electricity access."](https://doi.org/10.1038/s41586-022-05322-8){:target="_blank"} _Nature_ 661: 491–495.
   
   *Student-selected readings TBD.
+
+Additional Materials
+: Golden Kroner, R.E. et al. 2019. ["The uncertain future of protected lands and waters."](https://doi.org/10.1126/science.aau5525){:target="_blank"} _Science_ 364(6443): 881-886.
+  
+  Geertz, C. 1973. [Thick Description: Towards an Interpretive Theory of Culture](https://philpapers.org/archive/GEETTD.pdf){:target="_blank"} in _The Interpretation of Cultures_, Basic Books. pp. 310-323.
 
 **First checkpoint due Feb 15**{: .label .label-blue }

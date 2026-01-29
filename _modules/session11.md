@@ -1,20 +1,27 @@
 ---
-title: Week 11. External Validity and Knowledge Accumulation (Apr 8)
+title: 'Week 11. Relaxing Assumptions about Unit Independence: Networks and Complexity (Apr 8)'
 type: outline
 ---
 
 Overview
-: - Revisit the question of how case selection factors in the scientific method
-  - Consider how replication factors into the scientific method
+: - Discuss threats and opportunities posed by spillover or interference to research
+  - Explore the concept of complexity in social scientific research
+  - Discuss interim research design project
 
 Required Readings
-: Blatter, J., Blume, T. 2008. ["In Search of Co-variance, Causal Mechanisms or Congruence? Towards a Plural Understanding of Case Studies."](https://doi.org/10.1002/j.1662-6370.2008.tb00105.x){:target="_blank"} _Swiss Political Science Review_ 14(2): 315-356.
+: Leifeld, P., Schneider, V. 2012. ["Information Exchange in Policy Networks."](https://doi.org/10.1111/j.1540-5907.2011.00580.x){:target="_blank"} _American Journal of Political Science_ 56(3): 731-744.
   
-  Plümper, T., Troeger, V.E., Neumayer, E. 2019. ["Case selection and causal inferences in qualitative comparative research."](https://doi.org/10.1371/journal.pone.0219727){:target="_blank"} _PLOS ONE_ 14(7): e0219727.
+  Nilsson, A., Bergquist, M., Schultz, W.P. 2017. ["Spillover effects in environmental behaviors, across time and context: a review and research agenda."](https://doi.org/10.1080/13504622.2016.1250148){:target="_blank"} _Environmental Education Research_ 23(4): 573-589.
+  
+  Holtz, D. et al. 2020. ["Interdependence and the cost of uncoordinated responses to COVID-19"](https://doi.org/10.1073/pnas.2009522117){:target="_blank"} _Proceedings of the National Academy of Sciences_ 117(33): 19837-19843.
+  
+  D'Alberto, R. et al. 2024. ["The environmental and socioeconomic impacts of the Italian National Parks: Time and spillover effects across different geographical contexts."](https://doi.org/10.1016/j.gloenvcha.2024.102838){:target="_blank"} _Global Environmental Change_ 86: 102838.
 
-  Fariss, C.J., Jones, Z.M. 2018. ["Enhancing Validity in Observational Settings When Replication is Not Possible."](https://doi.org/10.1017/psrm.2017.5){:target="_blank"} _Political Science Research and Methods_ 6(2): 365-380.
-  
+  *Student-selected readings TBD.
+
 Additional Materials
-: King, G. 1995. ["Replication, Replication."](https://doi.org/10.2307/420301){:target="_blank"} _PS: Political Science & Politics_ 28(3): 444-452.
+: Deschenes, O., Meng, K.C. 2018. ["Quasi-experimental methods in environmental economics: Opportunities and challenges."](https://www.sciencedirect.com/science/article/abs/pii/S1574009918300068){:target="_blank"} in _Handbook of Environmental Economics_ vol.4, pp. 285-332.
 
-  Nielsen, R.A. 2016. ["Case Selection via Matching."](https://doi.org/10.1177/0049124114547054){:target="_blank"} _Sociological Methods & Research_ 45(3): 569-597.
+  Chen, T.H.Y. 2019. ["Statistical inference for multilayer networks in political science."](https://doi.org/10.1017/psrm.2019.49){:target="_blank"} _Political Science Research and Methods_ 9(2): 380-397.
+  
+  Kwan, M. 2018. ["The Limits of the Neighborhood Effect: Contextual Uncertainties in Geographic, Environmental Health, and Social Science Research."](https://doi.org/10.1080/24694452.2018.1453777){:target="_blank"} _Annals of the American Association of Geographers_ 108(6): 1482-1490.

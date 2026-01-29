@@ -1,25 +1,22 @@
 ---
-title: 'Week 12. Research Ethics: Interacting with Subjects and the Broader Society (Apr 15)'
+title: Week 12. External Validity and Knowledge Accumulation (Apr 15)
 type: outline
 ---
 
 Overview
-: - Discuss various ethical considerations in social scientific research
-  - Complete Human Subjects Ethics Training required for ethical review
-  - Discuss whether social science has a "responsibility" to society (if so, what?)
+: - Revisit the question of how case selection factors in the scientific method
+  - Consider how replication factors into the scientific method
 
 Required Readings
-: Human Subjects Ethics Training (CITI Program). See instructions at the GMU Office of Research Integrity and Assurance [website](https://oria.gmu.edu/topics/human-subjects/training/){:target="_blank"}.
+: Blatter, J., Blume, T. 2008. ["In Search of Co-variance, Causal Mechanisms or Congruence? Towards a Plural Understanding of Case Studies."](https://doi.org/10.1002/j.1662-6370.2008.tb00105.x){:target="_blank"} _Swiss Political Science Review_ 14(2): 315-356.
+  
+  Plümper, T., Troeger, V.E., Neumayer, E. 2019. ["Case selection and causal inferences in qualitative comparative research."](https://doi.org/10.1371/journal.pone.0219727){:target="_blank"} _PLOS ONE_ 14(7): e0219727.
 
-  Asiedu, E. et al. 2021. ["A call for structured ethics appendices in social science papers."](https://doi.org/10.1073/pnas.2024570118){:target="_blank"} _Proceedings of the National Academy of Sciences_ 118(29): e2024570118.
+  Fariss, C.J., Jones, Z.M. 2018. ["Enhancing Validity in Observational Settings When Replication is Not Possible."](https://doi.org/10.1017/psrm.2017.5){:target="_blank"} _Political Science Research and Methods_ 6(2): 365-380.
   
-  Haggerty, K.D. 2004. ["Ethics Creep: Governing Social Science Research in the Name of Ethics."](https://doi.org/10.1023/B:QUAS.0000049239.15922.a3){:target="_blank"} _Qualitative Sociology_ 27, 391-414.
-  
-  Fiesler, C., Proferes, N. 2018. ["Participant” Perceptions of Twitter Research Ethics."](https://doi.org/10.1177/2056305118763366){:target="_blank"} _Social Media + Society_ 4(1).
-  
-  Desposato, S. 2018. ["Subjects and Scholars’ Views on the Ethics of Political Science Field Experiments."](https://doi.org/10.1017/S1537592717004297){:target="_blank"} _Perspective on Politics_ 16(3): 739-750.
-
 Additional Materials
-: Dattalo, P. 2010. ["Ethical Dilemmas in Sampling."](https://jswve.org/volume-07/issue-1/){:target="_blank"} _Journal of Social Work Values and Ethics_ 7(1).
+: King, G. 1995. ["Replication, Replication."](https://doi.org/10.2307/420301){:target="_blank"} _PS: Political Science & Politics_ 28(3): 444-452.
 
-**Presentation draft due Apr 17**{: .label .label-blue }
+  Nielsen, R.A. 2016. ["Case Selection via Matching."](https://doi.org/10.1177/0049124114547054){:target="_blank"} _Sociological Methods & Research_ 45(3): 569-597.
+
+**Presentation draft due Apr 20**{: .label .label-blue }

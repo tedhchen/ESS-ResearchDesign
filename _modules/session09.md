@@ -1,21 +1,19 @@
 ---
-title: 'Week 9. Uncontrolled Treatments II: Assumptions about Comparability (Mar 25)'
+title: 'Week 9. Uncontrolled Treatments I: Noncompliance and Instrumental Variables (Mar 25)'
 type: outline
 ---
 
 Overview
-: - Review the concept of comparability in making inferences
-  - Identify different types of assumptions about comparability between units or samples
-  - Discuss scenarios that allow for reasonable assumptions about comparability
+: - Discuss the link between noncompliance in experiments and instrumental variables for observational studies
+  - Identify plausible instrumental variables in common environmental social science questions
+  - Discuss the potential for the instrumental variable approach in environmental social science research
 
 Required Readings
-: Hazlett, C., Mildenberger, M. 2020. ["Wildfire Exposure Increases Pro-Environment Voting within Democratic but Not Republican Areas."](https://doi.org/10.1017/S0003055420000441){:target="_blank"} _American Political Science Review_ 114(4): 1359-1365.
-  
-  Wuepper, D., Borrelli, P., Finger, R. 2020. ["Countries and the global rate of soil erosion."](https://doi.org/10.1038/s41893-019-0438-4){:target="_blank"} _Nature Sustainability_ 3: 51-55.
-  
-  Talhelm, T., Dong, X. 2024. ["People quasi-randomly assigned to farm rice are more collectivistic than people assigned to farm wheat."](https://doi.org/10.1038/s41467-024-44770-w){:target="_blank"} _Nature Communication_ 15: 1782.
+: Imai, K. 2005. ["Do Get-Out-the-Vote Calls Reduce Turnout? The Importance of Statistical Methods for Field Experiments."](https://doi.org/10.1017/S0003055405051658){:target="_blank"} _American Political Science Review_ 99(2): 283-300.
+
+  Gong, X. et al. 2020. ["Internet use encourages pro-environmental behavior: Evidence from China."](https://doi.org/10.1016/j.jclepro.2020.120725){:target="_blank"} _Journal of Cleaner Production_ 256: 120725.
 
   *Student-selected readings TBD.
 
 Additional Materials
-: Kousky, C., Michel-Kerjana, E.O., Raschky, P.A. 2018. ["Does federal disaster assistance crowd out flood insurance?"](https://doi.org/10.1016/j.jeem.2017.05.010){:target="_blank"} _Journal of Environmental Economics and Management_ 87: 150-164.
+: Kikuta, K. 2019. ["Postdisaster Reconstruction as a Cause of Intrastate Violence: An Instrumental Variable Analysis with Application to the 2004 Tsunami in Sri Lanka."](https://doi.org/10.1177/0022002717753919){:target="_blank"} _Journal of Conflict Resolution_ 63(3): 760-785.

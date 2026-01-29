@@ -1,36 +1,24 @@
 ---
-title: Week 7. Introduction to Causal Inference and Controlled Experiments (Mar 4)
+title: 'Week 7. Sampling II: Non-probability sampling (Mar 4)'
 type: outline
 ---
 
 Overview
-: - Establish baseline knowledge of the causal inference framework
-  - Discuss the concept of comparability in making inferences
-  - Practice identifying and critiquing assumptions in applied causal inference research
-  - Explore different types of experimental studies with full control of treatment assignment and administration
-  - Discuss the uses of various types of experimental designs in environmental social science
+: - Introduction to various types of non-probability sampling approaches
+  - Compare probability and non-probability sampling schemes with respect to scientific inference
+  - Continue discussing the use of survey research in environmental social science research
+  - Discuss interim research design project (focus on sample selection)
 
 Required Readings
-: Trochim. ["Research Design."](https://conjointly.com/kb/research-design/){:target="_blank"} (All subsections.)
-    
-  Kimmel, K. et al. 2021.["Causal assumptions and causal inference in ecological experiments."](https://doi.org/10.1016/j.tree.2021.08.008){:target="_blank"} _Trends in Ecology & Evolution_ 36(12): 1141-1152.
+: Heckathorn, D.D., Cameron, C.J. 2017. ["Network Sampling: From Snowball and Multiplicity to Respondent-Driven Sampling."](https://doi.org/10.1146/annurev-soc-060116-053556){:target="_blank"} _Annual Review of Sociology_ 43:101-119.
 
-  Gromet, D.M., Kunreuther, H., Larrick, R.P. 2013. ["Political ideology affects energy-efficiency attitudes and choices."](https://doi.org/10.1073/pnas.1218453110){:target="_blank"} _Proceedings of the National Academy of Sciences_ 110(23): 9314-9319.
-
-  Zhang, B. et al. 2018. ["Experimental effects of climate messages vary geographically."](https://doi.org/10.1038/s41558-018-0122-0) _Nature Climate Change_ 8: 370–374.
+  Koubi, V. et al. 2022. ["Climate events and the role of adaptive capacity for (im-)mobility."](https://doi.org/10.1007/s11111-021-00395-5){:target="_blank"} _Population and Environment_ 43: 367–392.
+  
+  Exadaktylos, F., Espín, A., Brañas-Garza, P. 2013. ["Experimental subjects are not different."](https://doi.org/10.1038/srep01213) _Scientific Reports_ 3: 1213.
   
   *Student-selected readings TBD.
 
 Additional Materials
-: Shadish, W.R. 2010. ["Campbell and Rubin: A primer and comparison of their approaches to causal inference in field settings."](https://doi.org/10.1037/a0015916) _Psychological Methods_ 15(1): 3–17.
-
-  Byerly, H. et al. 2018. ["Nudging pro-environmental behavior: evidence and opportunities."](https://doi.org/10.1002/fee.1777){:target="_blank"} _Frontiers in Ecology and the Environment_ 16(3): 159-168.
-
-  Bernedo, M., Ferraro, P.J., Price, M. 2014. ["The Persistent Impacts of Norm-Based Messaging and Their Implications for Water Conservation."](https://doi.org/10.1007/s10603-014-9266-0){:target="_blank"} _Journal of Consumer Policy_ 37: 437-452.
-  
-  King, G. et al. 2011. ["Avoiding Randomization Failure in Program Evaluation, with Application to the Medicare Health Support Program."](https://doi.org/10.1089/pop.2010.0074){:target="_blank"} _Population Health Management_ 14(S1): S11-S22.
-  
-  Sakagami, T,. Ohta, M. 2010. ["The effect of visiting zoos on human health and quality of life."](https://doi.org/10.1111/j.1740-0929.2009.00714.x){:target="_blank"} _Animal Science Journal_ 81(1): 129-134.
+: Goel, S., Salganik, M.J. 2010. ["Assessing respondent-driven sampling"](https://doi.org/10.1073/pnas.1000261107){:target="_blank"} _Proceedings of the National Academy of Sciences_ 107(15): 6743-6747.
 
 **Second checkpoint due Mar 8**{: .label .label-blue }
-

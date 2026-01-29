@@ -1,19 +1,33 @@
 ---
-title: 'Week 8. Uncontrolled Treatments I: Noncompliance and Instrumental Variables (Mar 18)'
+title: Week 8. Introduction to Causal Inference and Controlled Experiments (Mar 18)
 type: outline
 ---
 
 Overview
-: - Discuss the link between noncompliance in experiments and instrumental variables for observational studies
-  - Identify plausible instrumental variables in common environmental social science questions
-  - Discuss the potential for the instrumental variable approach in environmental social science research
+: - Establish baseline knowledge of the causal inference framework
+  - Discuss the concept of comparability in making inferences
+  - Practice identifying and critiquing assumptions in applied causal inference research
+  - Explore different types of experimental studies with full control of treatment assignment and administration
+  - Discuss the uses of various types of experimental designs in environmental social science
 
 Required Readings
-: Imai, K. 2005. ["Do Get-Out-the-Vote Calls Reduce Turnout? The Importance of Statistical Methods for Field Experiments."](https://doi.org/10.1017/S0003055405051658){:target="_blank"} _American Political Science Review_ 99(2): 283-300.
+: Trochim. ["Research Design."](https://conjointly.com/kb/research-design/){:target="_blank"} (All subsections.)
+    
+  Kimmel, K. et al. 2021.["Causal assumptions and causal inference in ecological experiments."](https://doi.org/10.1016/j.tree.2021.08.008){:target="_blank"} _Trends in Ecology & Evolution_ 36(12): 1141-1152.
 
-  Gong, X. et al. 2020. ["Internet use encourages pro-environmental behavior: Evidence from China."](https://doi.org/10.1016/j.jclepro.2020.120725){:target="_blank"} _Journal of Cleaner Production_ 256: 120725.
+  Gromet, D.M., Kunreuther, H., Larrick, R.P. 2013. ["Political ideology affects energy-efficiency attitudes and choices."](https://doi.org/10.1073/pnas.1218453110){:target="_blank"} _Proceedings of the National Academy of Sciences_ 110(23): 9314-9319.
 
+  Zhang, B. et al. 2018. ["Experimental effects of climate messages vary geographically."](https://doi.org/10.1038/s41558-018-0122-0) _Nature Climate Change_ 8: 370–374.
+  
   *Student-selected readings TBD.
 
 Additional Materials
-: Kikuta, K. 2019. ["Postdisaster Reconstruction as a Cause of Intrastate Violence: An Instrumental Variable Analysis with Application to the 2004 Tsunami in Sri Lanka."](https://doi.org/10.1177/0022002717753919){:target="_blank"} _Journal of Conflict Resolution_ 63(3): 760-785.
+: Shadish, W.R. 2010. ["Campbell and Rubin: A primer and comparison of their approaches to causal inference in field settings."](https://doi.org/10.1037/a0015916) _Psychological Methods_ 15(1): 3–17.
+
+  Byerly, H. et al. 2018. ["Nudging pro-environmental behavior: evidence and opportunities."](https://doi.org/10.1002/fee.1777){:target="_blank"} _Frontiers in Ecology and the Environment_ 16(3): 159-168.
+
+  Bernedo, M., Ferraro, P.J., Price, M. 2014. ["The Persistent Impacts of Norm-Based Messaging and Their Implications for Water Conservation."](https://doi.org/10.1007/s10603-014-9266-0){:target="_blank"} _Journal of Consumer Policy_ 37: 437-452.
+  
+  King, G. et al. 2011. ["Avoiding Randomization Failure in Program Evaluation, with Application to the Medicare Health Support Program."](https://doi.org/10.1089/pop.2010.0074){:target="_blank"} _Population Health Management_ 14(S1): S11-S22.
+  
+  Sakagami, T,. Ohta, M. 2010. ["The effect of visiting zoos on human health and quality of life."](https://doi.org/10.1111/j.1740-0929.2009.00714.x){:target="_blank"} _Animal Science Journal_ 81(1): 129-134.
